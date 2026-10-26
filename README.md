@@ -1,5 +1,7 @@
 # AI coding agent lab with Docker Compose: opencode on a small project, with its model run by the platform
 
+[English](README.md) | [Français](README.fr.md) | [Español](README.es.md) | [日本語](README.ja.md) | [Deutsch](README.de.md)
+
 [![check](https://github.com/mitsurutech/lab-ai-agent/actions/workflows/check.yml/badge.svg)](https://github.com/mitsurutech/lab-ai-agent/actions/workflows/check.yml)
 
 A ready-made lab for classrooms, from the [MitsuruTech Learning Platform](https://mitsurutech.co.uk/learning), where schools, colleges and universities give every student their own databases, containers and terminal in the browser. It is a coding agent of your own: opencode, an open-source AI agent that reads your code, changes it and runs commands, answering through a model the platform runs. It asks before it changes a file or runs a command.
